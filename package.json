@@ -1,0 +1,12 @@
+{
+  "name": "now-cfg",
+  "version": "1.0.0",
+  "description": "A simple CLI to help generate a now.json configuration file.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
